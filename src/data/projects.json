@@ -1,0 +1,73 @@
+[{
+    "id": "1",
+    "name": "Pathfinding Algorithm Visualizer",
+    "description": "🛣️ Pathfinding Algorithm Visualizer created using React",
+    "url": "https://jamiejarrettjj.github.io/pathfinding-visualizer/",
+    "source_code": "https://github.com/JamieJarrettJJ/pathfinding-visualizer",
+    "img": "https://i.imgur.com/lAN07YC.png"
+},
+{
+    "id": "2",
+    "name": "Sorting Algorithm Visualizer",
+    "description": "🔄 Sorting Algorithm Visualizer created using React",
+    "url": "https://jamiejarrettjj.github.io/sorting-visualizer/",
+    "source_code": "https://github.com/JamieJarrettJJ/sorting-visualizer",
+    "img": "https://i.imgur.com/BtPoVQ2.png"
+},
+{
+    "id": "3",
+    "name": "Machine Learning Image Identification",
+    "description": "🖼️ Image Identification App created using Tensorflow.js & React",
+    "url": "https://jamiejarrettjj.github.io/tensorflow-img-detect/",
+    "source_code": "https://github.com/JamieJarrettJJ/tensorflow-img-detect",
+    "img": "https://i.imgur.com/0KVSvDf.png"
+},
+{
+    "id": "4",
+    "name": "SpaceX Apollo App",
+    "description": "🚀 SpaceX Past Launches List created using Apollo Angular & GraphQL",
+    "url": "https://jamiejarrettjj.github.io/spacex-graphql/",
+    "source_code": "https://github.com/JamieJarrettJJ/spacex-graphql",
+    "img": "https://i.imgur.com/uo5UWZl.png"
+},
+{
+    "id": "5",
+    "name": "Emjay Consultancy Ltd",
+    "description": "🌐 Website I did for my Dad's company",
+    "url": "https://emjayconsultancy.com/",
+    "source_code": "https://github.com/JamieJarrettJJ/programming-practice/tree/master/JavaScript/React/emjay-consultancy",
+    "img": "https://i.imgur.com/sbcpFWI.png"
+},
+{
+    "id": "6",
+    "name": "Meteor To Do List",
+    "description": "📙 To-Do list (with login) created using Meteor, MongoDB & React",
+    "url": "http://meteor-todo-list.meteorapp.com/",
+    "source_code": "https://github.com/JamieJarrettJJ/meteor-todo-list",
+    "img": "https://i.imgur.com/S6ydgp7.png"
+},
+{
+    "id": "7",
+    "name": "Meme Generator",
+    "description": "😂 Basic Meme Generator created using React. Uses the Imgflip API",
+    "url": "https://jamiejarrettjj.github.io/meme-generator/",
+    "source_code": "https://github.com/JamieJarrettJJ/meme-generator",
+    "img": "https://i.imgur.com/L4OZpj9.png"
+},
+{
+    "id": "8",
+    "name": "Crypto Tracker App",
+    "description": "📱 Crypto Tracker App created using React Native, Redux & Expo",
+    "url": "https://github.com/JamieJarrettJJ/crypto-tracker-app",
+    "source_code": "https://github.com/JamieJarrettJJ/crypto-tracker-app",
+    "img": "https://i.imgur.com/3VT6vwi.png"
+},
+{
+    "id": "9",
+    "name": "Weedabis",
+    "description": "🍁 Online head shop specializing in CBD, smoking & vaping products",
+    "url": "https://weedab.is/",
+    "source_code": "https://weedab.is/",
+    "img": "https://i.imgur.com/gKv2vcw.png"
+}
+]
